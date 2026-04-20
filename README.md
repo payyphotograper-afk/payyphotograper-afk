@@ -1,16 +1,29 @@
-## Hi there 👋
+# Halo, saya Adi 👋
 
-<!--
-**payyphotograper-afk/payyphotograper-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Tentang Saya
+Saya adalah siswa jurusan Desain Komunikasi Visual (DKV) yang memiliki minat besar dalam dunia desain grafis, multimedia, dan konten kreatif. Saya senang membuat karya visual yang menarik dan komunikatif
 
-Here are some ideas to get you started:
+## 💼 Skill
+- Desain Grafis (Adobe Photoshop, Illustrator)
+- Editing Video (Premiere Pro / CapCut)
+- Fotografi Dan Videografi
+- Desain Konten Media Sosial
+- Portofolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portofolio
+- Desain Poster Promosi
+- Logo Brand / UMKM
+- Konten Instagram & TikTok
+- Editing Video Kreatif
+
+## 💻 Shoftware
+- Premiere Pro
+- Lightroom Classic
+- Ilustrator
+- Adobe Photoshop
+- Alight Motion
+- Canva
+  
+## 📞 Kontak
+- Email: rrq999@gmail.com
+- Instagram: @evosrrqbersahabat
